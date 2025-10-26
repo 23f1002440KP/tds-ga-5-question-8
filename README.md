@@ -1,4 +1,5 @@
-# TDS GA-5 Question 8
+# TDS GA-5 Question 8  
+     [![Daily Commit](https://github.com/23f1002440KP/tds-ga-5-question-8/actions/workflows/main.yml/badge.svg)](https://github.com/23f1002440KP/tds-ga-5-question-8/actions/workflows/main.yml)
 Your Task  
 Create a scheduled GitHub action that runs daily and adds a commit to your repository. The workflow should:  
 
@@ -11,4 +12,4 @@ After creating the workflow:
 - Trigger the workflow and wait for it to complete  
 - Ensure it appears as the most recent action in your repository  
 - Verify that it creates a commit during or within 5 minutes of the workflow run  
-[![Daily Commit](https://github.com/23f1002440KP/tds-ga-5-question-8/actions/workflows/main.yml/badge.svg)](https://github.com/23f1002440KP/tds-ga-5-question-8/actions/workflows/main.yml)
+
