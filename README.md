@@ -1,5 +1,7 @@
 # TDS GA-5 Question 8  
-     [![Daily Commit](https://github.com/23f1002440KP/tds-ga-5-question-8/actions/workflows/main.yml/badge.svg)](https://github.com/23f1002440KP/tds-ga-5-question-8/actions/workflows/main.yml)
+
+[![Daily Commit](https://github.com/23f1002440KP/tds-ga-5-question-8/actions/workflows/main.yml/badge.svg)](https://github.com/23f1002440KP/tds-ga-5-question-8/actions/workflows/main.yml)
+
 Your Task  
 Create a scheduled GitHub action that runs daily and adds a commit to your repository. The workflow should:  
 
